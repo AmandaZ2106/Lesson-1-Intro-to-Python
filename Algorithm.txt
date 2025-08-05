@@ -1,0 +1,7 @@
+1. Start
+2. Take two variable,a and b, and store two numbers in it
+eg. a=2, b=6
+3. Create another variable ,c, which holds the result of a plus b
+c=a+b
+4. Print the result c 
+5. End
